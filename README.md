@@ -1,1 +1,1 @@
-# js-practice
+# js-practiceday
